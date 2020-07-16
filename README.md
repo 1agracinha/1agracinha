@@ -1,1 +1,1 @@
-<h1 style="color: pink">Hello, I'm Gracy </h1>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1agracinha)](https://github.com/anuraghazra/github-readme-stats)
