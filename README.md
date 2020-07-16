@@ -1,1 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1agracinha)](https://github.com/anuraghazra/github-readme-stats)
+<h1>Welcome to my profile!!</h1>
+<h2>I'm Gracy</h2>
+<p>talk to me at</p>
+<a href="https://www.linkedin.com/in/gracyelesantos/">LinkedIn</a>
