@@ -1,13 +1,13 @@
-<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Você é bem-vindx aqui!  </h2>
+<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
 <p>Aqui é a Gracy, uma nordestina que caiu sem paraquedas no mundo do desenvolvimento. Por enquanto, desvendando as tecnologias JS ~balançando a sanidade~ e caminhando de mãos dadas com o Flutter - engatinhando um relacionamento sério.</i></p>
 <table> <tr>
                  <td>
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                         <li>:woman_student: Técnica em Dev de Sistemas - <a href="https://ifs.edu.br/">IFS</a> </li>
-                        <li>:hospital: Suporte em TI no <a href="https://hospitaldecirurgia.com.br/">Hospital de Cirurgia</a></li>
+                        <li>:computer: Analista desenvolvedora mobile na </br> <a href="https://grupofasitec.com.br/">Grupo Fasitec</a></li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
-                       <li>:hourglass: 20 anos de idade</li>
+                       <li>:hourglass: 21 anos de idade</li>
                    </ul>
                  </td>
                  <td>
