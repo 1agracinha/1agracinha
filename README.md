@@ -5,9 +5,8 @@
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
                         <li>:woman_student: Técnica em Dev de Sistemas - <a href="https://ifs.edu.br/">IFS</a> </li>
-                        <li>:computer: Desenvolvedora Flutter na </br> <a href="https://devmagic.com.br/">DevMagic</a></li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
-                       <li>:hourglass: 21 anos de idade</li>
+                       <li>:hourglass: 23 anos de idade</li>
                    </ul>
                  </td>
                  <td>
@@ -15,9 +14,6 @@
                    <ul>
                       <li>Flutter</li>
                       <li>Dart</li>
-                      <li>React JS</li>
-                      <li>Typescript</li>
-                   </ul>
                 </td>
                 <td>
                      <h4>Me encontre por aqui: </h4>
